@@ -1,4 +1,4 @@
-20328688882997214
+20330365322568474
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85740,8 +85740,8 @@ GPS-NEO6M
 
 
 0
-0
-0
+4
+4
 custom-footprints
 MPU6050
 
@@ -85784,3 +85784,10 @@ test
 0
 2
 2
+spdt_toggle_switch
+SW_100SP1T1B4M2QE
+
+
+0
+3
+3
