@@ -73,7 +73,7 @@
     "files": [
       {
         "name": "ejection-computer.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
